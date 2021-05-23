@@ -1,0 +1,3 @@
+vpn.vgtu.lt
+
+sudo openconnect vpn.vgtu.lt

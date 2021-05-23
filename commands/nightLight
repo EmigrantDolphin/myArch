@@ -1,0 +1,2 @@
+redshift -O [1000-25000]
+redshift -x   (to reset)

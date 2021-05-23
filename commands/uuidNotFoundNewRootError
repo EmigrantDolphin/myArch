@@ -1,0 +1,7 @@
+mkinitcpio -p linux
+
+
+boot with flashdrive having arch install on it. Mount arch partition. arch-chroot to mounted partition and run this command to regenerate init ram disk.
+
+if i understood correctly, before the system is booted and the main root file system used. 
+In order to boot it and find all devices, load modules and do all the stuff for the main root file system to be mounted

@@ -1,0 +1,5 @@
+lsblk - list partitions
+
+df - shows Used and Available disk space
+
+mount /dev/sdax /some/folder    -- mounts drive to folder so u can access with cd

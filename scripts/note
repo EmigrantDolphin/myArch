@@ -1,0 +1,4 @@
+in .xinitrc
+Append scripts path to $PATH so dmenu knows where to look
+
+export PATH="$HOME/myArch/scripts:$PATH"

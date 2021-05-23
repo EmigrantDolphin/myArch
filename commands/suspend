@@ -1,0 +1,5 @@
+systemctl suspend
+(suspends to ram)
+
+systemctl hibernate
+(suspends to hard drive)
