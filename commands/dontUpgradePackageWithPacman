@@ -1,0 +1,10 @@
+/etc/pacman.conf
+
+example:
+
+
+# Pacman won't upgrade packages listed in IgnorePkg and members of IgnoreGroup
+#IgnorePkg   =
+#IgnoreGroup =
+IgnorePkg = libx11
+IgnorePkg = alsa-lib
