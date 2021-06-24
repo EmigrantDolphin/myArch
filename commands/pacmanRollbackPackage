@@ -1,0 +1,1 @@
+pacman -U /var/cache/pacman/pkg/package-old_version.pkg.tar.type
