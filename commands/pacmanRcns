@@ -1,0 +1,3 @@
+remove together with dependencies
+
+pacman -Rcns <package>

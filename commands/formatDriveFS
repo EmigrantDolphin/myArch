@@ -1,0 +1,4 @@
+sudo mkfs -t ext4 /dev/<yourDrive>
+
+ext4 is filesystem already used by partition where arch is installed.
+ntfs i think is for windows
