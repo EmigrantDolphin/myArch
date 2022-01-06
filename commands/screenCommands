@@ -1,0 +1,15 @@
+ctrl-a d : detach
+screen -r : reattach to existing session
+
+SPLITS
+ctrl-a S : split horizontal
+ctrl-a | : split vertical
+ctrl-a TAB : change focus to other regions when split
+ctrl-a Q : close all regions except current(?) (inactive ones)
+ctrl-a X : close the currently focused region
+
+ctrl-a :resize max : open screen command line and resize to max
+	30% 
+	increase/decrease with +n -n,
+	set to specific size with n,
+	set all to equal with -b

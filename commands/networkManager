@@ -1,0 +1,14 @@
+View help for every nmcli command
+	add --help tag at the end
+
+To start networkmanager
+	systemctl start NetworkManager
+
+cli for network manager
+	nmcli
+
+available wifi list
+	nmcli device wifi list
+
+connect to wifi
+	nmcli device wifi connect <SSID>_or_<BSSID> password <password>
