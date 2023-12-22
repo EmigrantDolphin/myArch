@@ -1,0 +1,3 @@
+change mirror
+pacman -Sy archlinux-keyring //syncs key ring?? What does it mean?
+pacman -Syu
